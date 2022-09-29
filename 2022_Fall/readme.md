@@ -37,7 +37,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Considine, Thomas
 
-- [ ] Darraidou, Carolina
+- [X] Darraidou, Carolina :relaxed: :blossom:
 
 - [ ] Feeney, Andrew
 
